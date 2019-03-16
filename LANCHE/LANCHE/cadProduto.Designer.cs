@@ -123,7 +123,7 @@
             this.cbMargemLucro.Location = new System.Drawing.Point(243, 120);
             this.cbMargemLucro.Name = "cbMargemLucro";
             this.cbMargemLucro.Size = new System.Drawing.Size(15, 14);
-            this.cbMargemLucro.TabIndex = 14;
+            this.cbMargemLucro.TabIndex = 5;
             this.cbMargemLucro.UseVisualStyleBackColor = true;
             this.cbMargemLucro.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
@@ -145,7 +145,7 @@
             this.cmbTipoProd.Location = new System.Drawing.Point(270, 184);
             this.cmbTipoProd.Name = "cmbTipoProd";
             this.cmbTipoProd.Size = new System.Drawing.Size(121, 25);
-            this.cmbTipoProd.TabIndex = 12;
+            this.cmbTipoProd.TabIndex = 7;
             this.cmbTipoProd.Tag = "1";
             // 
             // label6
@@ -169,7 +169,7 @@
             this.cmbStatus.Location = new System.Drawing.Point(195, 48);
             this.cmbStatus.Name = "cmbStatus";
             this.cmbStatus.Size = new System.Drawing.Size(149, 25);
-            this.cmbStatus.TabIndex = 10;
+            this.cmbStatus.TabIndex = 4;
             this.cmbStatus.Tag = "1";
             // 
             // label5
@@ -189,8 +189,9 @@
             this.txtMargem.Location = new System.Drawing.Point(316, 137);
             this.txtMargem.Name = "txtMargem";
             this.txtMargem.Size = new System.Drawing.Size(75, 23);
-            this.txtMargem.TabIndex = 8;
+            this.txtMargem.TabIndex = 6;
             this.txtMargem.Tag = "1";
+            this.txtMargem.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtMargem_KeyPress);
             // 
             // label4
             // 
@@ -209,8 +210,9 @@
             this.txtVlV.Location = new System.Drawing.Point(53, 186);
             this.txtVlV.Name = "txtVlV";
             this.txtVlV.Size = new System.Drawing.Size(123, 23);
-            this.txtVlV.TabIndex = 6;
+            this.txtVlV.TabIndex = 3;
             this.txtVlV.Tag = "1";
+            this.txtVlV.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtVlV_KeyPress);
             // 
             // label3
             // 
@@ -229,8 +231,9 @@
             this.txtVlC.Location = new System.Drawing.Point(53, 137);
             this.txtVlC.Name = "txtVlC";
             this.txtVlC.Size = new System.Drawing.Size(123, 23);
-            this.txtVlC.TabIndex = 4;
+            this.txtVlC.TabIndex = 2;
             this.txtVlC.Tag = "1";
+            this.txtVlC.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtVlC_KeyPress);
             // 
             // label2
             // 
@@ -252,6 +255,7 @@
             this.txtCodigo.Size = new System.Drawing.Size(92, 24);
             this.txtCodigo.TabIndex = 2;
             this.txtCodigo.Tag = "1";
+            this.txtCodigo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCodigo_KeyPress);
             // 
             // label1
             // 
@@ -298,6 +302,7 @@
             this.dtgResultados.Location = new System.Drawing.Point(7, 7);
             this.dtgResultados.Name = "dtgResultados";
             this.dtgResultados.RowHeadersVisible = false;
+            this.dtgResultados.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dtgResultados.Size = new System.Drawing.Size(433, 233);
             this.dtgResultados.TabIndex = 0;
             // 
@@ -417,6 +422,7 @@
             this.Name = "cadProduto";
             this.Text = " ";
             this.Load += new System.EventHandler(this.cadProduto_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cadProduto_KeyDown);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);

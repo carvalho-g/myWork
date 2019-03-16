@@ -76,6 +76,8 @@ namespace LANCHE
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             trava(false);
+            localiza = false;
+            operacao = true;
         }
 
         private void btnEditar_Click(object sender, EventArgs e)
