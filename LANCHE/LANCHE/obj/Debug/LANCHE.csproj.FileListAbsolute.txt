@@ -15,3 +15,20 @@ C:\Users\Work\Documents\Sistemas\LANCHE\LANCHE\obj\Debug\LANCHE.pdb
 C:\Users\Work\Documents\Sistemas\LANCHE\LANCHE\obj\Debug\LANCHE.csprojAssemblyReference.cache
 C:\Users\Work\Documents\Sistemas\LANCHE\LANCHE\obj\Debug\LANCHE.cadProduto.resources
 C:\Users\Work\Documents\Sistemas\LANCHE\LANCHE\obj\Debug\LANCHE.cadTipoProduto.resources
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\LANCHE.exe.config
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\LANCHE.exe
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\LANCHE.pdb
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\Google.Protobuf.dll
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\MySql.Data.dll
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\Google.Protobuf.xml
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\bin\Debug\MySql.Data.xml
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.csprojAssemblyReference.cache
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.cadProduto.resources
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.cadTipoProduto.resources
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.frmPrincipal.resources
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.Properties.Resources.resources
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.csproj.GenerateResource.cache
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.csproj.CopyComplete
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.exe
+C:\Users\Work\Documents\Repositorio GIT\myWork\LANCHE\LANCHE\obj\Debug\LANCHE.pdb
